@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = C:\Users\rajat.chauhan\OneDrive - Fluence\Desktop\Data science\temp\storage
